@@ -1,5 +1,7 @@
 # Photo_get
 获取LOFTER，Tumblr，豆瓣相册图片链接
+# 版本
+python2.7
 # install
 pip install requests
 # run
